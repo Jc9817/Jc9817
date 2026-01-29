@@ -17,7 +17,7 @@ Feel free to explore my repositories showcasing projects on data modeling, archi
 - Automate workflows and improve processes using data
 
 ## 🧰 Tools & Platforms
-- **Power BI**, **Power Query**, **DAX**  
+- **Power BI**, **Power Query**, **DAX**, **SQL**  
 - **Python** for analytics and machine learning  
 - **Microsoft Fabric**, **Azure Data Lake**, **Azure Synapse**, **Azure SQL**  
 - **Dynamics 365** for data integration and business process mapping
